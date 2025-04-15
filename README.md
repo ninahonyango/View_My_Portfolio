@@ -22,7 +22,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ## 🧪 Featured Projects
 
-### 🔍 [Vulnerability Assessment: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
+### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.  
 🧰 *Tools:* Metasploit, Nmap, Kali Linux, Wireshark  
 📸 *Techniques:* Banner Grabbing, CVE Search, Exploit Execution  
