@@ -56,16 +56,6 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 📫 **Connect with me**: [LinkedIn](#) | [Email](#) | [Portfolio Website](#)
 
-
-# 👋 Hey there, I'm Ninah Onyango
-
-🔐 **Cybersecurity & Network Administrator**  
-🎓 Computer Science Graduate | 🛡️ Blue Team Enthusiast | 🧠 Lifelong Learner
-
----
-
-I specialize in defending networks, analyzing vulnerabilities, and configuring secure infrastructures. Whether it’s inspecting packet captures in Wireshark, setting up pfSense firewalls, or documenting real-world lab exploits in Kali Linux — I’m passionate about keeping systems resilient and secure.
-
 ---
 
 ## 🧰 Tools & Technologies
