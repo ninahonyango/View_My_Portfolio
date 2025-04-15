@@ -20,16 +20,6 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-## 🚀 Portfolio Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| [🔍 PCAP Analysis](https://github.com/ninahonyango/pcap-analysis) | Analyzed suspicious packets and traffic patterns | Wireshark |
-| [💣 VAPT Lab](https://github.com/ninahonyango/VAPT) | Simulated attacks & reported vulnerabilities | Kali Linux, Metasploit |
-| [🔐 Password Cracking](https://github.com/ninahonyango/password-cracking) | Used brute force & dictionary techniques | Hydra, JohnTheRipper |
-| [🛡️ Firewall Setup](https://github.com/ninahonyango/pfsense-firewall) | Configured pfSense firewall and rules | pfSense |
-| [🧠 TryHackMe Walkthroughs](https://github.com/ninahonyango/thm-walkthroughs) | My original room walkthroughs & notes | TryHackMe |
-
 ## 🧪 Featured Projects
 
 ### 🔍 [Vulnerability Assessment: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
