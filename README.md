@@ -33,8 +33,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 🔐 [Packet Capture and Analysis of an FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/Packet-Capture-Analysis)
-
+### 🔐 [Packet Capture and Analysis of an FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/PCAP/tree/main/PCAP)
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.
 
 🧰 *Tools:* Metasploit, Nmap, Kali Linux, Wireshark  
