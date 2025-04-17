@@ -68,7 +68,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 ## 💬 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/elizabeth-p-a-onyango)
-- 📬 Email: lizahninah@gmail.com  
+  
 - 🌍 Portfolio: *Coming soon – stay tuned!*
 
 ---
