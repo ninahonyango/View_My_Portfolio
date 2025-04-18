@@ -22,7 +22,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ## 🧪 Featured Projects
 
-### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit]
+### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
      
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.
 
@@ -45,7 +45,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 📎 Includes screenshots and a detailed walkthrough.
 
-> Click [here]((https://github.com/ninahonyango/Packet-Capture-Analysis)) to view the project.
+> Click [here](https://github.com/ninahonyango/Packet-Capture-Analysis)) to view the project.
 
 ---
 ### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
