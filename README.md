@@ -22,7 +22,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ## 🧪 Featured Projects
 
-### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
+### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit]
      
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.
 
@@ -32,20 +32,20 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 📎 Includes screenshots and a detailed walkthrough.
 
-> [*Click here to view the project*](https://github.com/ninahonyango/VAPT)
 > Click [here](https://github.com/ninahonyango/VAPT) to view the project.
 
 ---
 
-### 🔐 [Packet Capture and Analysis of an FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/Packet-Capture-Analysis)
+### 🔐 [Packet Capture and Analysis of an FTP Brute-Force Attack with Data Exfiltration]
 > Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
-### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
 
 🧰 *Tools:* Kali Linux, Metaspoiltable2, Wireshark, Hydra, FTP Service  
 
 📸 *Techniques:* Brute Force Attack, Data Exfiltration, Packet Capture & Analysis
 
 📎 Includes screenshots and a detailed walkthrough.
+
+> Click [here]((https://github.com/ninahonyango/Packet-Capture-Analysis)) to view the project.
 
 ---
 ### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
