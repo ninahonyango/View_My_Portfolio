@@ -23,12 +23,6 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 ## 🧪 Featured Projects
 
 - 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
-
-- 🔗 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
-
-
-
-
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.
 
 🧰 *Tools:* Metasploit, Nmap, Kali Linux, Wireshark  
@@ -39,7 +33,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 🔐 [Packet Capture and Analysis of an FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/Packet-Capture-Analysis)
+- 🔐 [Packet Capture and Analysis of an FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/Packet-Capture-Analysis)
 > Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
 
 🧰 *Tools:* Kali Linux, Metaspoiltable2, Wireshark, Hydra, FTP Service  
