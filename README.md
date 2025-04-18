@@ -32,7 +32,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 📎 Includes screenshots and a detailed walkthrough.
 
-> [*Click here to view the project*](https://github.com/ninahonyango/VAPT)
+~ [*Click here to view the project*](https://github.com/ninahonyango/VAPT)
 ---
 
 ### 🔐 [Packet Capture and Analysis of an FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/Packet-Capture-Analysis)
