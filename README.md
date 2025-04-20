@@ -1,4 +1,4 @@
-<img src="thumbnailGit2.png" alt="Project Thumbnail" width="100%" />
+<img src="thumbnailGit2.jpg" alt="Project Thumbnail" width="100%" />
 
 # 👋 Hi there, I'm Elizabeth P. A Onyango!
 
