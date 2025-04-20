@@ -77,7 +77,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/elizabeth-p-a-onyango)
   
-- 🌍 Portfolio: *Coming soon – stay tuned!*
+- 🌍 Website: *Coming soon – stay tuned!*
 
 ---
 
