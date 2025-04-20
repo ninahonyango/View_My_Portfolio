@@ -1,5 +1,3 @@
-<img src="thumbnailGit2.jpg" alt="Project Thumbnail" width="100%" />
-
 # 👋 Hi there, I'm Elizabeth P. A Onyango!
 
 🎯 Cybersecurity & Network Admin | Blue Team Enthusiast | Problem Solver
