@@ -51,7 +51,22 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/Packet-Capture-Analysis) to view the project.
 
 ---
-### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
+### 🔐 [Detecting and Investigating Malicious Activities with Splunk SIEM](https://github.com/ninahonyango/splunk-SIEM)
+---
+
+> Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
+
+🧰 *Tools:* Kali Linux, Metaspoiltable2, Wireshark, Hydra, FTP Service  
+
+📸 *Techniques:* Brute Force Attack, Data Exfiltration, Packet Capture & Analysis
+
+📎 Includes screenshots and a detailed walkthrough.
+
+> Click [here](https://github.com/ninahonyango/splunk-SIEM) to view the project.
+
+---
+
+### 🔥 [Firewall Configuration Using pfSense][(https://github.com/ninahonyango/pfsense-firewall)
 > Designed and configured a virtual network with LAN segmentation, access control, and firewall rules using pfSense.  
 🧰 *Tools:* pfSense, VirtualBox, Cisco Packet Tracer  
 🔐 *Focus:* Perimeter defense, subnet management, rule optimization.
