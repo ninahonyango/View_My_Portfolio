@@ -66,7 +66,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 🔥 [Firewall Configuration Using pfSense][(https://github.com/ninahonyango/pfsense-firewall)
+### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
 > Designed and configured a virtual network with LAN segmentation, access control, and firewall rules using pfSense.  
 🧰 *Tools:* pfSense, VirtualBox, Cisco Packet Tracer  
 🔐 *Focus:* Perimeter defense, subnet management, rule optimization.
