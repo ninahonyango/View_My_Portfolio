@@ -66,7 +66,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 📖 [NIST Cybersecurity (CSF) Implementation Plan For X Bank (Fictional Company)](https://github.com/ninahonyango/NIST-CSF)
+### 📖 [NIST Cybersecurity (CSF) Implementation Plan For X Bank (Fictional Company)](https://github.com/ninahonyango/NIST)
 
 This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
 
