@@ -66,6 +66,21 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
+### 📖 [NIST Cybersecurity (CSF) Implementation Plan For X Bank (Fictional Company)](https://github.com/ninahonyango/NIST-CSF)
+
+This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
+
+🧰 *Tools, Techniques & Framework:*
+
+- NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
+- Risk Analysis & Risk Register (Excel)
+- NIST CSF Subcategory Control Mapping (Excel)
+- Policy Writing (MS Word converted to PDF)
+- Security Best Practices & Compliance Principles
+
+> Click [here](https://github.com/ninahonyango/NIST-CSF) to view the project.
+
+---
 ### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
 > Designed and configured a virtual network with LAN segmentation, access control, and firewall rules using pfSense.  
 🧰 *Tools:* pfSense, VirtualBox, Cisco Packet Tracer  
