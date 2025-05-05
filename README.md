@@ -66,7 +66,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 📖 [NIST Cybersecurity (CSF) Implementation Plan For X Bank (Fictional Company)](https://github.com/ninahonyango/NIST)
+### 📖 [NIST Cybersecurity (CSF) Implementation Plan For X Bank (Fictional Company)](https://github.com/ninahonyango/NIST/tree/main/NIST-XBANK)
 
 This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
 
@@ -78,7 +78,7 @@ This project demonstrates the application of the NIST Cybersecurity Framework (C
 - Policy Writing (MS Word converted to PDF)
 - Security Best Practices & Compliance Principles
 
-> Click [here](https://github.com/ninahonyango/NIST-CSF) to view the project.
+> Click [here](https://github.com/ninahonyango/NIST/tree/main/NIST-XBANK) to view the project.
 
 ---
 ### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
