@@ -54,11 +54,19 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 ### 🔐 [Detecting and Investigating Malicious Activities with Splunk SIEM](https://github.com/ninahonyango/splunk-SIEM)
 ---
 
-> Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
+> This project focuses on real-time detection and visualization of brute force attacks and network reconnaissance (Nmap scans) by ingesting and analyzing syslog data using Splunk. The objective is to simulate a Security Operations Center (SOC) scenario where security analysts detect and respond to threats using centralized log monitoring and detection logic.
+ 
+🧰 *Tools & Techniques:*
 
-🧰 *Tools:* Kali Linux, Metaspoiltable2, Wireshark, Hydra, FTP Service  
+- Splunk (SIEM for log analysis)
 
-📸 *Techniques:* Brute Force Attack, Data Exfiltration, Packet Capture & Analysis
+- Kali Linux (attacker machine, generating logs and attacks)
+
+- Metasploitable2 (vulnerable target machine)
+
+- Syslog (UDP 514) for log forwarding
+
+- Custom regex & SPL queries for parsing and detection
 
 📎 Includes screenshots and a detailed walkthrough.
 
