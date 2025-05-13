@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Elizabeth P. A Onyango!
 
-🎯 Cybersecurity & Network Admin | Blue Team Enthusiast | Problem Solver
+🎯 SOC Analyst | GRC | Blue Team Enthusiast | Problem Solver
 
 
 I specialize in defending networks, analyzing vulnerabilities, and configuring secure infrastructures. Whether it’s inspecting packet captures in Wireshark, setting up pfSense firewalls, or documenting real-world lab exploits in Kali Linux — I’m passionate about keeping systems resilient and secure.
@@ -16,7 +16,6 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 | 🐧 **Systems** | Linux, Windows Server |
 | 🧠 **Knowledge Areas** | OSI Model, Vulnerability Assessment, Blue Team Tactics |
 | 💻 **Scripting** | Python, Bash |
-| 📜 **Certifications** | IBM Cybersecurity Fundamentals, Security+ (*in progress*), CCNA (Beginner), Binance Blockchain Tech |
 
 ---
 
@@ -90,15 +89,21 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 ### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
-> Designed and configured a virtual network with LAN segmentation, access control, and firewall rules using pfSense.  
+
+> Designed and configured a virtual network with LAN segmentation, access control, and firewall rules using pfSense.
+
 🧰 *Tools:* pfSense, VirtualBox, Cisco Packet Tracer  
+
 🔐 *Focus:* Perimeter defense, subnet management, rule optimization.
 
 ---
 
 ### 🧪 [TryHackMe Lab: Blue Team Rooms](https://github.com/ninahonyango/tryhackme-labs)
-> Practicing real-world defensive tactics through SIEM analysis, log review, and incident response labs.  
+
+> Practicing real-world defensive tactics through SIEM analysis, log review, and incident response labs.
+ 
 🧰 *Tools:* TryHackMe, Log Analysis, Sysmon, Suricata  
+
 📖 *Documentation:* Screenshots + Observations + Lessons Learned.
 
 ---
