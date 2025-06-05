@@ -72,8 +72,8 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/splunk-SIEM) to view the project.
 
 ---
-
-### 📖 [NIST Cybersecurity (CSF) Implementation Plan For X Bank (Fictional Company)](https://github.com/ninahonyango/NIST/tree/main/NIST-XBANK)
+### 📖 [NIST Cybersecurity (CSF) Implementation Plan For X Bank (Fictional Company)](https://github.com/ninahonyango/NIST-CSF)
+---
 
 > This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
 
@@ -88,7 +88,25 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/NIST-CSF) to view the project.
 
 ---
+### 🔍 [Python Port Scanner | Scripting ](https://github.com/ninahonyango/python-port-scanner)
+---
+
+> Wrote a simple command-line port scanning script using Python's socket module. This tool allows one to scan for open TCP ports on a target host to identify potential exposure in a network.
+
+🧰 *Tools & Techniques:*
+
+- Kali Linux VM
+- Metasploitable2 VM
+- Python installed in Kali
+- socket (built-in Python networking module)
+
+📎 Includes screenshots and a detailed walkthrough.
+
+> Click [here](https://github.com/ninahonyango/python-port-scanner) to view the project.
+
+---
 ### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
+---
 
 > Designed and configured a virtual network with LAN segmentation, access control, and firewall rules using pfSense.
 
