@@ -21,7 +21,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ## 🧪 Featured Projects
 
-### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit](https://github.com/ninahonyango/VAPT)
+### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit (CVE-2011-2523)](https://github.com/ninahonyango/VAPT)
 ---
 
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.
@@ -36,7 +36,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 🔐 [Packet Capture and Analysis of an FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/Packet-Capture-Analysis)
+### 🔐 [Packet Capture and Analysis with Wireshark - FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/Packet-Capture-Analysis)
 ---
 
 > Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
@@ -72,7 +72,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/splunk-SIEM) to view the project.
 
 ---
-### 📖 [NIST Cybersecurity (CSF) Implementation Plan For X Bank (Fictional Company)](https://github.com/ninahonyango/NIST-CSF)
+### 📖 [NIST Cybersecurity (CSF) Implementation Plan For A Fictional Bank](https://github.com/ninahonyango/NIST-CSF)
 ---
 
 > This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
@@ -88,7 +88,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/NIST-CSF) to view the project.
 
 ---
-### 🔍 [Python Port Scanner | Scripting ](https://github.com/ninahonyango/python-port-scanner)
+### 🔍 [Python Port Scanner - Reconnaisance Tool using Sockets ](https://github.com/ninahonyango/python-port-scanner)
 ---
 
 > Wrote a simple command-line port scanning script using Python's socket module. This tool allows one to scan for open TCP ports on a target host to identify potential exposure in a network.
