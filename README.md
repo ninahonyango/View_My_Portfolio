@@ -36,7 +36,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 🔐 [Packet Capture and Analysis with Wireshark - FTP Brute-Force Attack with Data Exfiltration](https://github.com/ninahonyango/Packet-Capture-Analysis)
+### 🔐 [FTP Brute-Force Attack Simulation With Data Exfiltration and Network Forensics Using Wireshark](https://github.com/ninahonyango/Packet-Capture-Analysis)
 ---
 
 > Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
