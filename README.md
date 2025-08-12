@@ -77,7 +77,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 > This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
 
-*Tools, Techniques & Framework:*
+🧰 *Tools, Techniques & Framework:*
 
 - NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
 - Risk Analysis & Risk Register (Excel)
