@@ -41,9 +41,9 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 > Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
 
-🧰 *Tools:* Kali Linux, Metaspoiltable2, Wireshark, Hydra, FTP Service  
+🧰 *Tools:* Kali Linux, Metasploitable2, Wireshark, Hydra, FTP Service  
 
-📸 *Techniques:* Brute Force Attack, Data Exfiltration, Packet Capture & Analysis
+📸 *Techniques:* Brute Force Attack, Data Exfiltration, Packet Capture, Network Forensics
 
 📎 Includes screenshots and a detailed walkthrough.
 
