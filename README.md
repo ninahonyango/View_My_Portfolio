@@ -26,7 +26,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.
 
-🧰 *Tools:* Metasploit, Nmap, Kali Linux, Wireshark  
+🧰 *Tools:* Metasploit, Nmap, Kali Linux, Metasploitable2
 
 📸 *Techniques:* Banner Grabbing, CVE Search, Exploit Execution  
 
