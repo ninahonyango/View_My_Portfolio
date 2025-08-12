@@ -21,7 +21,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ## 🧪 Featured Projects
 
-### 🔍 [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit (CVE-2011-2523)](https://github.com/ninahonyango/VAPT)
+### [Vulnerability Assessment & Penetration Testing: vsftpd 2.3.4 Exploit (CVE-2011-2523)](https://github.com/ninahonyango/VAPT)
 ---
 
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.
@@ -36,7 +36,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 🔐 [FTP Brute-Force Attack Simulation With Data Exfiltration and Network Forensics Using Wireshark](https://github.com/ninahonyango/Packet-Capture-Analysis)
+### [FTP Brute-Force Attack Simulation With Data Exfiltration and Network Forensics Using Wireshark](https://github.com/ninahonyango/Packet-Capture-Analysis)
 ---
 
 > Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
@@ -50,7 +50,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/Packet-Capture-Analysis) to view the project.
 
 ---
-### 🔐 [Detecting and Investigating Malicious Activities with Splunk SIEM](https://github.com/ninahonyango/splunk-SIEM)
+### [Detecting and Investigating Malicious Activities with Splunk SIEM](https://github.com/ninahonyango/splunk-SIEM)
 ---
 
 > This project focuses on real-time detection and visualization of brute force attacks and network reconnaissance (Nmap scans) by ingesting and analyzing syslog data using Splunk. The objective is to simulate a Security Operations Center (SOC) scenario where security analysts detect and respond to threats using centralized log monitoring and detection logic.
@@ -72,12 +72,12 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/splunk-SIEM) to view the project.
 
 ---
-### 📖 [NIST Cybersecurity (CSF) Implementation Plan For A Fictional Bank](https://github.com/ninahonyango/NIST-CSF)
+### [NIST Cybersecurity (CSF) Implementation Plan For A Fictional Bank](https://github.com/ninahonyango/NIST-CSF)
 ---
 
 > This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
 
-🧰 *Tools, Techniques & Framework:*
+*Tools, Techniques & Framework:*
 
 - NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
 - Risk Analysis & Risk Register (Excel)
@@ -88,7 +88,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/NIST-CSF) to view the project.
 
 ---
-### 🔍 [Python Port Scanner - Reconnaisance Tool using Sockets ](https://github.com/ninahonyango/python-port-scanner)
+### [Python Port Scanner - Reconnaisance Tool using Sockets ](https://github.com/ninahonyango/python-port-scanner)
 ---
 
 > Wrote a simple command-line port scanning script using Python's socket module. This tool allows one to scan for open TCP ports on a target host to identify potential exposure in a network.
@@ -106,7 +106,7 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### 🔥 [SSH Intrusion Detection & Response - Bash Scripting](https://github.com/ninahonyango/SSH_Bash_Scripting)
+### [SSH Intrusion Detection & Response - Bash Scripting](https://github.com/ninahonyango/SSH_Bash_Scripting)
 ---
 
 > Built an automated SSH Intrusion Prevention System in a virtualized lab to detect, block, and manage brute force attacks in real time. Implemented a Bash script to monitor authentication logs and automatically apply iptables rules to block offending IPs after repeated failed login attempts. Developed a complementary unblock script to restore access for trusted hosts during testing without flushing the firewall.
