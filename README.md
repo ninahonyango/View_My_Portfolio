@@ -105,11 +105,23 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/python-port-scanner) to view the project.
 
 ---
+
+### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/SSH_Bash_Scripting)
+---
+
+> Built an Automated SSH Intrusion Prevention System in a virtualized lab to detect, block, and manage brute force attacks in real time. Implemented a Bash script to monitor authentication logs and automatically apply iptables rules to block offending IPs after repeated failed login attempts. Developed a complementary unblock script to restore access for trusted hosts during testing without flushing the firewall.
+
+🧰 *Tools:* iptables, Bash Scripting, VirtualBox, Kali Linux VM, Metasploitable VM  
+
+🔐 *Focus:* Intrusion detection, log monitoring, automated firewall response.
+
+---
+
 ### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
 ---
 
-> Designed and configured a virtual network with LAN segmentation, access control, and firewall rules using pfSense.
-
+> Intrusion detection, automated threat response, firewall rule management.
+> 
 🧰 *Tools:* pfSense, VirtualBox, Cisco Packet Tracer  
 
 🔐 *Focus:* Perimeter defense, subnet management, rule optimization.
