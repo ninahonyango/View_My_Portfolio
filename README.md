@@ -36,60 +36,6 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
-### [FTP Brute-Force Attack Simulation With Data Exfiltration and Network Forensics Using Wireshark](https://github.com/ninahonyango/Packet-Capture-Analysis)
----
-
-> Conducted a hands-on brute-force attack on an FTP server and captured the network traffic using Wireshark for analysis.
-
-🧰 *Tools:* Kali Linux, Metasploitable2, Wireshark, Hydra, FTP Service  
-
-📸 *Techniques:* Brute Force Attack, Data Exfiltration, Packet Capture, Network Forensics
-
-📎 Includes screenshots and a detailed walkthrough.
-
-> Click [here](https://github.com/ninahonyango/Packet-Capture-Analysis) to view the project.
-
----
-### [Threat Detection and Splunk SIEM Implemtation & Tuning](https://github.com/ninahonyango/splunk-SIEM)
----
-
-> This project focuses on real-time detection and visualization of brute force attacks and network reconnaissance by ingesting and analyzing syslog data using Splunk. The objective is to simulate a Security Operations Center (SOC) scenario where security analysts detect and respond to threats using centralized log monitoring and detection logic.
- 
-🧰 *Tools & Techniques:*
-
-- Splunk (SIEM for log analysis)
-
-- Kali Linux (attacker machine, generating logs and attacks)
-
-- Metasploitable2 (vulnerable target machine)
-
-- Syslog (UDP 514) for log forwarding
-
-- Custom regex & SPL queries for parsing and detection
-
-- Email alerts 
-
-📎 Includes screenshots and a detailed walkthrough.
-
-> Click [here](https://github.com/ninahonyango/splunk-SIEM) to view the project.
-
----
-### [NIST Cybersecurity (CSF) Implementation Plan For A Fictional Bank](https://github.com/ninahonyango/NIST-CSF)
----
-
-> This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
-
-🧰 *Tools, Techniques & Framework:*
-
-- NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
-- Risk Analysis & Risk Register (Excel)
-- NIST CSF Subcategory Control Mapping (Excel)
-- Policy Writing (MS Word converted to PDF)
-- Security Best Practices & Compliance Principles
-
-> Click [here](https://github.com/ninahonyango/NIST-CSF) to view the project.
-
----
 ### [Python Port Scanner - Reconnaisance Tool using Sockets ](https://github.com/ninahonyango/python-port-scanner)
 ---
 
@@ -108,6 +54,46 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ---
 
+### [FTP Brute-force Attack Simulation with Data Exfiltration and Network Forensics Using Wireshark](https://github.com/ninahonyango/Packet-Capture-Analysis)
+---
+
+> Conducted a hands-on brute-force attack with data exfiltration on an FTP server and captured the network traffic using Wireshark for analysis.
+
+🧰 *Tools:* Kali Linux, Metasploitable2, Wireshark, Hydra, FTP Service  
+
+📸 *Techniques:* Brute Force Attack, Data Exfiltration, Packet Capture, Network Forensics
+
+📎 Includes screenshots and a detailed walkthrough.
+
+> Click [here](https://github.com/ninahonyango/Packet-Capture-Analysis) to view the project.
+
+---
+
+### [Threat Detection and Splunk SIEM Implementation & Tuning](https://github.com/ninahonyango/splunk-SIEM)
+---
+
+> This project focuses on real-time detection and visualization of brute force attacks and network reconnaissance by ingesting and analyzing syslog data using Splunk. The objective is to simulate a Security Operations Center (SOC) scenario where security analysts detect and respond to threats using centralized log monitoring and detection logic.
+ 
+🧰 *Tools & Techniques:*
+
+- Splunk (SIEM for log analysis)
+
+- Kali Linux (attacker machine, generating logs and attacks)
+
+- Metasploitable2 (vulnerable target machine)
+
+- Syslog (UDP 514) for log forwarding
+
+- Custom regex & SPL queries for parsing and detection
+
+- Email alerts for detection
+
+📎 Includes screenshots and a detailed walkthrough.
+
+> Click [here](https://github.com/ninahonyango/splunk-SIEM) to view the project.
+
+---
+
 ### [SSH Intrusion Detection & Response - Bash Scripting](https://github.com/ninahonyango/SSH_Bash_Scripting)
 ---
 
@@ -120,6 +106,24 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 📎 Includes screenshots and a detailed walkthrough.
 
 > Click [here](https://github.com/ninahonyango/SSH_Bash_Scripting) to view the project.
+
+---
+
+### [NIST Cybersecurity (CSF) Implementation Plan For A Fictional Bank](https://github.com/ninahonyango/NIST-CSF)
+---
+
+> This project demonstrates the application of the NIST Cybersecurity Framework (CSF) to a fictional company. It includes a risk register, CSF control mappings, and detailed security policies.
+
+🧰 *Tools, Techniques & Framework:*
+
+- NIST Cybersecurity Framework (Identify, Protect, Detect, Respond, Recover)
+- Risk Analysis & Risk Register (Excel)
+- NIST CSF Subcategory Control Mapping (Excel)
+- Policy Writing (MS Word converted to PDF)
+- Security Best Practices & Compliance Principles
+
+> Click [here](https://github.com/ninahonyango/NIST-CSF) to view the project.
+
 
 ---
 
