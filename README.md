@@ -50,10 +50,10 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 > Click [here](https://github.com/ninahonyango/Packet-Capture-Analysis) to view the project.
 
 ---
-### [Detecting and Investigating Malicious Activities with Splunk SIEM](https://github.com/ninahonyango/splunk-SIEM)
+### [Threat Detection and Splunk SIEM Implemtation & Tuning](https://github.com/ninahonyango/splunk-SIEM)
 ---
 
-> This project focuses on real-time detection and visualization of brute force attacks and network reconnaissance (Nmap scans) by ingesting and analyzing syslog data using Splunk. The objective is to simulate a Security Operations Center (SOC) scenario where security analysts detect and respond to threats using centralized log monitoring and detection logic.
+> This project focuses on real-time detection and visualization of brute force attacks and network reconnaissance by ingesting and analyzing syslog data using Splunk. The objective is to simulate a Security Operations Center (SOC) scenario where security analysts detect and respond to threats using centralized log monitoring and detection logic.
  
 🧰 *Tools & Techniques:*
 
@@ -66,6 +66,8 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 - Syslog (UDP 514) for log forwarding
 
 - Custom regex & SPL queries for parsing and detection
+
+- Email alerts 
 
 📎 Includes screenshots and a detailed walkthrough.
 
