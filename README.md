@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Elizabeth P. A Onyango!
+# 👋 Hi there, I'm Elizabeth Peninah. A O.!
 
 🎯 Security Analyst | SOC | Purple Teamer | Network Security |  IT Support | Problem Solver
 
