@@ -22,7 +22,7 @@ Designed and built a Security Operations Center (SOC) lab to simulate real-world
 - **Log Forwarding & Real-time Detection:** Syslog, custom SPL regex queries, email alerts
 - **Intrusion Detection & Prevention:** Python and Bash scripts for threat detection and automated blocking
 - **End-to-end workflow:** attack generation → log ingestion → detection → alerting → response
-- **Learning Platforms Integration:** TryHackMe Blue Team rooms, SIEM dashboards
+- **Learning Platforms Integration:** TryHackMe rooms, Let's Defend, SIEM dashboards
     
 ---
 
