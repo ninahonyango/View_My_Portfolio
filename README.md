@@ -155,14 +155,6 @@ Designed and built a Security Operations Center (SOC) lab to simulate real-world
 
 ---
 
-## 🚧 Learning & Building
-
-- 🔄 Security+ Lab Review & Flashcards  
-- ☁️ Starting Cloud Security Path (Azure & AWS)  
-- 📊 SIEM & SOC Analyst Projects (Wazuh/Elastic Stack - coming soon)
-
----
-
 ## 💬 Let's Connect
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/elizabeth-p-a-onyango)
