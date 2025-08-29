@@ -8,21 +8,22 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 ## 🧰 SOC Lab Setup & Tools
 
-I designed and built a Security Operations Center (SOC) lab to simulate real-world security monitoring, detection, and response. Here's what it includes:
+Designed and built a Security Operations Center (SOC) lab to simulate real-world security monitoring, detection, and response. Here's what it includes:
 
 **Components & Tools:**
 - **Virtualized lab environment:** Oracle VirtualBox
 - **SIEM Platform:** Splunk for centralized log aggregation, dashboarding, and alerting
 - **IDS/IPS:** Snort - network-based intrusion detection system for real-time traffic analysis and attack detection
-- **Firewall/Network Security:** pfSense firewall, iptables
+- **Firewall/Network Security:** pfSense firewall, Linux iptables
 - **Attacker Machines:** Kali Linux VM
 - **Vulnerable Targets:** Metasploitable VM
 - **Network Monitoring & Analysis:** Wireshark for packet capture and inspection
-- **Scanning & Vulnerability Assessment:** Nmap, OpenVAS
+- **Vulnerability Assessment & Penetration Testing:** Nmap, OpenVAS, Metasploit
 - **Log Forwarding & Real-time Detection:** Syslog, custom SPL regex queries, email alerts
 - **Intrusion Detection & Prevention:** Python and Bash scripts for threat detection and automated blocking
-- **Learning Platforms Integration:** TryHackMe Blue Team rooms, SIEM dashboards
 - **End-to-end workflow:** attack generation → log ingestion → detection → alerting → response
+- **Learning Platforms Integration:** TryHackMe Blue Team rooms, SIEM dashboards
+    
 ---
 
 ## 🧪 Featured Projects
