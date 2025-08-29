@@ -1,22 +1,28 @@
 # 👋 Hi there, I'm Elizabeth Peninah. A O.!
 
-🎯 Security Analyst | SOC | Purple Teamer | Network Security |  IT Support | Problem Solver
-
+🎯 Cybersecurity Analyst | SOC | Purple Teamer | Network Security |  IT Support | Problem Solver
 
 I specialize in defending networks, analyzing vulnerabilities, and configuring secure infrastructures. Whether it’s inspecting packet captures in Wireshark, setting up pfSense firewalls, or documenting real-world lab exploits in Kali Linux — I’m passionate about keeping systems resilient and secure.
 
 ---
 
-## 🧰 Tools & Technologies
+## 🧰 SOC Lab Setup & Tools
 
-| Category | Tools |
-|---------|-------|
-| 🔐 **Security** | Kali Linux, Wireshark, OpenVAS, Nessus, Metasploit, Nmap |
-| 🌐 **Networking** | pfSense, Cisco Packet Tracer, TCP/IP, VPNs, Firewalls |
-| 🐧 **Systems** | Linux, Windows Server |
-| 🧠 **Knowledge Areas** | OSI Model, Vulnerability Assessment, Blue Team Tactics |
-| 💻 **Scripting** | Python, Bash |
+I designed and built a Security Operations Center (SOC) lab to simulate real-world security monitoring, detection, and response. Here's what it includes:
 
+**Components & Tools:**
+- **Virtualized lab environment:** Oracle VirtualBox
+- **SIEM Platform:** Splunk for centralized log aggregation, dashboarding, and alerting
+- **IDS/IPS:** Snort - network-based intrusion detection system for real-time traffic analysis and attack detection
+- **Firewall/Network Security:** pfSense firewall, iptables
+- **Attacker Machines:** Kali Linux VM
+- **Vulnerable Targets:** Metasploitable VM
+- **Network Monitoring & Analysis:** Wireshark for packet capture and inspection
+- **Scanning & Vulnerability Assessment:** Nmap, OpenVAS
+- **Log Forwarding & Real-time Detection:** Syslog, custom SPL regex queries, email alerts
+- **Intrusion Detection & Prevention:** Python and Bash scripts for threat detection and automated blocking
+- **Learning Platforms Integration:** TryHackMe Blue Team rooms, SIEM dashboards
+- **End-to-end workflow:** attack generation → log ingestion → detection → alerting → response
 ---
 
 ## 🧪 Featured Projects
