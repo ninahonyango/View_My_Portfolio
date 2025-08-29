@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Elizabeth Peninah. A O.!
 
-🎯 Cybersecurity Analyst | SOC | Purple Teamer | Network Security |  IT Support | Problem Solver
+Cybersecurity Analyst | SOC | Purple Teamer | Network Security |  IT Support | Problem Solver
 
 I specialize in defending networks, analyzing vulnerabilities, and configuring secure infrastructures. Whether it’s inspecting packet captures in Wireshark, setting up pfSense firewalls, or documenting real-world lab exploits in Kali Linux — I’m passionate about keeping systems resilient and secure.
 
