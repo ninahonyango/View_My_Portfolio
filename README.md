@@ -10,20 +10,20 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 Designed and built a Security Operations Center (SOC) lab in a virtualized environment to simulate real-world security monitoring, detection, and response. Here's what it includes:
 
-| **Category**                          | **Tools / Platforms**                                                                  |
-|----------------------------------------|----------------------------------------------------------------------------------------|
-| **SIEM Platform**                      | Splunk (centralized log aggregation, dashboarding, and alerting)                       |
-| **IDS/IPS**                            | Snort (real-time traffic analysis and attack detection)                                |
-| **Firewall/Network Security**          | pfSense firewall, Linux iptables (virtualized perimeter defense)                       |
-| **Attacker Machines**                  | Kali Linux (attack generation and exploitation testing)                                |
-| **Vulnerable Targets**                 | Metasploitable2 (intentionally vulnerable VM for exploit simulations)                  |
-| **Network Monitoring & Analysis**      | Wireshark (packet capture and inspection)                                              |
-| **Vulnerability & Pentesting Tools**   | Nmap, OpenVAS, Metasploit                                                              |
-| **Log Forwarding & Detection**         | Syslog, custom SPL regex queries, email alerts                                         |
-| **Intrusion Detection & Response**     | Python & Bash scripts for threat detection and automated blocking                      |
-| **End-to-End Workflow**                | Attack generation → log ingestion → detection → alerting → response                    |
-| **Incident Investigation & Reporting** | High level cybersecurity incident investigation and reporting                          |
-| **Learning Platforms**                 | TryHackMe rooms, Let's Defend, SIEM dashboards                                         |
+| **Category**                          | **Tools / Platforms**                                                                          |
+|----------------------------------------|-------------------------------------------------------------------------------------------------|
+| **SIEM Platform**                      | Splunk (centralized log aggregation, dashboarding, and alerting)                               |
+| **IDS/IPS**                            | Snort (real-time traffic analysis and attack detection)                                        |
+| **Firewall/Network Security**          | pfSense firewall, Linux iptables (virtualized perimeter defense)                               |
+| **Attacker Machines**                  | Kali Linux (attack generation and exploitation testing)                                        |
+| **Vulnerable Targets**                 | Metasploitable2 (intentionally vulnerable VM for exploit simulations)                          |
+| **Network Monitoring & Analysis**      | Wireshark (packet capture and inspection)                                                      |
+| **Vulnerability & Pentesting Tools**   | Nmap, OpenVAS, Metasploit                                                                      |
+| **Log Forwarding & Detection**         | Syslog, custom SPL regex queries, email alerts                                                 |
+| **Intrusion Detection & Response**     | Python & Bash scripts for threat detection and automated blocking                              |
+| **End-to-End Workflow**                | Attack generation → log ingestion → detection → alerting → response                            |
+| **Incident Investigation & Reporting** | High level incident investigation and reporting, SOC playbooks & runbooks                      |
+| **Learning Platforms**                 | TryHackMe rooms, Let's Defend, SIEM dashboards                                                 |
     
 ---
 
@@ -34,7 +34,7 @@ Designed and built a Security Operations Center (SOC) lab in a virtualized envir
 
 > Conducted a hands-on vulnerability scan and exploitation on Metasploitable2 using Metasploit and Kali Linux.
 
-🧰 *Tools:* Metasploit, Nmap, Kali Linux, Metasploitable2
+🧰 *Tools:* Metasploit, Nmap, Kali Linux VM, Metasploitable2 VM
 
 📸 *Techniques:* Banner Grabbing, CVE Search, Exploit Execution  
 
@@ -47,7 +47,7 @@ Designed and built a Security Operations Center (SOC) lab in a virtualized envir
 ### [Python Port Scanner - Reconnaisance Tool using Sockets ](https://github.com/ninahonyango/python-port-scanner)
 ---
 
-> Wrote a simple command-line port scanning script using Python's socket module. This tool allows one to scan for open TCP ports on a target host to identify potential exposure in a network.
+> Wrote a simple command-line port scanning script using Python's socket module. This tool scans for open TCP ports on a target host to identify potential exposure in a network.
 
 🧰 *Tools & Techniques:*
 
@@ -77,10 +77,10 @@ Designed and built a Security Operations Center (SOC) lab in a virtualized envir
 
 ---
 
-### [Threat Detection and Splunk SIEM Implementation & Tuning](https://github.com/ninahonyango/splunk-SIEM)
+### [Threat Detection and Splunk SIEM Implementation & Alert Tuning](https://github.com/ninahonyango/splunk-SIEM)
 ---
 
-> This project focuses on real-time detection and visualization of brute force attacks and network reconnaissance by ingesting and analyzing syslog data using Splunk. The objective is to simulate a Security Operations Center (SOC) scenario where security analysts detect and respond to threats using centralized log monitoring and detection logic.
+> This project focuses on real-time detection and visualization of cyber attacks by ingesting and analyzing syslog data using Splunk. The objective is to simulate a SOC scenario where security analysts detect and respond to threats using centralized log monitoring and detection logic.
  
 🧰 *Tools & Techniques:*
 
@@ -105,11 +105,9 @@ Designed and built a Security Operations Center (SOC) lab in a virtualized envir
 ### [SSH Intrusion Detection & Response - Bash Scripting](https://github.com/ninahonyango/SSH_Bash_Scripting)
 ---
 
-> Built an automated SSH Intrusion Prevention System in a virtualized lab to detect, block, and manage brute force attacks in real time. Implemented a Bash script to monitor authentication logs and automatically apply iptables rules to block offending IPs after repeated failed login attempts. Developed a complementary unblock script to restore access for trusted hosts during testing without flushing the firewall.
+> Implemented a Bash script to monitor authentication logs and automatically apply iptables rules to block offending IPs after repeated failed login attempts. Developed a complementary unblock script to restore access for trusted hosts during testing without flushing the firewall.
 
 🧰 *Tools:* iptables, Bash Scripting, VirtualBox, Kali Linux VM, Metasploitable VM  
-
-🔐 *Focus:* Intrusion detection, log monitoring, automated firewall response.
 
 📎 Includes screenshots and a detailed walkthrough.
 
@@ -134,14 +132,15 @@ Designed and built a Security Operations Center (SOC) lab in a virtualized envir
 
 ---
 
-### [Cybersecurity Investigation Reports](https://github.com/ninahonyango/Cybersec_Investigation_Reports)
+### [SOC Playbooks, Runbooks & Investigation Reports](https://github.com/ninahonyango/soc_playbooks_and_reports)
 ---
 
-- This repository contains detailed cybersecurity investigation reports documenting traffic analysis, incident simulations, and detection exercises performed.
+- This repository contains detailed SOC playbooks, runbooks, and investigation reports documenting traffic analysis, incident simulations, and detection exercises performed.
 
 - Each report captures key findings, timestamps, and evidence of malicious or suspicious activities.
 
-> Click [here](https://github.com/ninahonyango/Cybersec_Investigation_Reports) to view the repository.
+> Click [here](https://github.com/ninahonyango/soc_playbooks_and_reports) to view the repository.
+> 
 ---
 
 ### [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
