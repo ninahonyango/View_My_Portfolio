@@ -10,20 +10,20 @@ I specialize in defending networks, analyzing vulnerabilities, and configuring s
 
 Designed and built a Security Operations Center (SOC) lab in a virtualized environment to simulate real-world security monitoring, detection, and response. Here's what it includes:
 
-| **Category**                         | **Tools / Platforms**                                                                  |
-|--------------------------------------|----------------------------------------------------------------------------------------|
-| **SIEM Platform**                    | Splunk (centralized log aggregation, dashboarding, and alerting)                       |
-| **IDS/IPS**                          | Snort (real-time traffic analysis and attack detection)                                |
-| **Firewall/Network Security**        | pfSense firewall, Linux iptables (virtualized perimeter defense)                       |
-| **Attacker Machines**                | Kali Linux (attack generation and exploitation testing)                                |
-| **Vulnerable Targets**               | Metasploitable2 (intentionally vulnerable VM for exploit simulations)                  |
-| **Network Monitoring & Analysis**    | Wireshark (packet capture and inspection)                                              |
-| **Vulnerability & Pentesting Tools** | Nmap, OpenVAS, Metasploit                                                              |
-| **Log Forwarding & Detection**       | Syslog, custom SPL regex queries, email alerts                                         |
-| **Intrusion Detection & Response**   | Python & Bash scripts for threat detection and automated blocking                      |
-| **End-to-End Workflow**              | Attack generation → log ingestion → detection → alerting → response                    |
-| **Incident Investigation & Reporting | High level cybersecurity incident investigation and reporting                          |
-| **Learning Platforms**               | TryHackMe rooms, Let's Defend, SIEM dashboards                                         |
+| **Category**                          | **Tools / Platforms**                                                                  |
+|----------------------------------------|----------------------------------------------------------------------------------------|
+| **SIEM Platform**                      | Splunk (centralized log aggregation, dashboarding, and alerting)                       |
+| **IDS/IPS**                            | Snort (real-time traffic analysis and attack detection)                                |
+| **Firewall/Network Security**          | pfSense firewall, Linux iptables (virtualized perimeter defense)                       |
+| **Attacker Machines**                  | Kali Linux (attack generation and exploitation testing)                                |
+| **Vulnerable Targets**                 | Metasploitable2 (intentionally vulnerable VM for exploit simulations)                  |
+| **Network Monitoring & Analysis**      | Wireshark (packet capture and inspection)                                              |
+| **Vulnerability & Pentesting Tools**   | Nmap, OpenVAS, Metasploit                                                              |
+| **Log Forwarding & Detection**         | Syslog, custom SPL regex queries, email alerts                                         |
+| **Intrusion Detection & Response**     | Python & Bash scripts for threat detection and automated blocking                      |
+| **End-to-End Workflow**                | Attack generation → log ingestion → detection → alerting → response                    |
+| **Incident Investigation & Reporting** | High level cybersecurity incident investigation and reporting                          |
+| **Learning Platforms**                 | TryHackMe rooms, Let's Defend, SIEM dashboards                                         |
     
 ---
 
