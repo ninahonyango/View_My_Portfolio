@@ -21,8 +21,9 @@ Designed and built a Security Operations Center (SOC) lab in a virtualized envir
 | **Vulnerability & Pentesting Tools** | Nmap, OpenVAS, Metasploit                                                              |
 | **Log Forwarding & Detection**       | Syslog, custom SPL regex queries, email alerts                                         |
 | **Intrusion Detection & Response**   | Python & Bash scripts for threat detection and automated blocking                      |
-| **End-to-End Workflow**             | Attack generation → log ingestion → detection → alerting → response                     |
-| **Learning Platforms Integration**   | TryHackMe Blue Team rooms, Let's Defend, SIEM dashboards                               |
+| **End-to-End Workflow**              | Attack generation → log ingestion → detection → alerting → response                    |
+| **Incident Investigation & Reporting | High level cybersecurity incident investigation and reporting                          |
+| **Learning Platforms**               | TryHackMe rooms, Let's Defend, SIEM dashboards                                         |
     
 ---
 
@@ -131,7 +132,16 @@ Designed and built a Security Operations Center (SOC) lab in a virtualized envir
 
 > Click [here](https://github.com/ninahonyango/NIST-CSF) to view the project.
 
+---
 
+### [Cybersecurity Investigation Reports](https://github.com/ninahonyango/Cybersec_Investigation_Reports)
+---
+
+- This repository contains detailed cybersecurity investigation reports documenting traffic analysis, incident simulations, and detection exercises performed.
+
+- Each report captures key findings, timestamps, and evidence of malicious or suspicious activities.
+
+> Click [here](https://github.com/ninahonyango/Cybersec_Investigation_Reports) to view the repository.
 ---
 
 ### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
