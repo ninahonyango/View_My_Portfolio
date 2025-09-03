@@ -144,7 +144,7 @@ Designed and built a Security Operations Center (SOC) lab in a virtualized envir
 > Click [here](https://github.com/ninahonyango/Cybersec_Investigation_Reports) to view the repository.
 ---
 
-### 🔥 [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
+### [Firewall Configuration Using pfSense](https://github.com/ninahonyango/pfsense-firewall)
 ---
 
 > Intrusion detection, automated threat response, firewall rule management.
